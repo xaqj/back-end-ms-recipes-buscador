@@ -1,0 +1,1 @@
+INSERT INTO recipes (name_recipe, calories, ingredients, image) VALUES ('Salmon con Patatas', '300', 'Patatas, Salmon', 'imagen');
